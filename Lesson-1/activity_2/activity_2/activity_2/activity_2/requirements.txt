@@ -64,7 +64,7 @@ pyzmq==16.0.3
 qtconsole==4.3.1
 redis==2.10.6
 rednose==1.2.3
-requests==2.31.0
+requests==2.32.0
 scipy==1.0.0
 seaborn==0.8.1
 simplegeneric==0.8.1
