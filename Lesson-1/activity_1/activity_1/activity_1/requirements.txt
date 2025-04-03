@@ -26,13 +26,13 @@ ipython-genutils==0.2.0
 ipywidgets==7.0.5
 itsdangerous==0.24
 jedi==0.11.1
-Jinja2==2.10
+Jinja2==3.1.6
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.1.0
 jupyter-console==5.2.0
 jupyter-core==4.4.0
-Keras==2.1.2
+Keras==3.9.0
 lesscpy==0.13.0
 lxml==4.1.1
 Markdown==2.6.10
